@@ -1,0 +1,10 @@
+{
+  "HOME": {
+    "TITLE": "Bonjour Angular avec ngx-translate !",
+    "SELECT": "Changer la langue",
+    "HELLO": "AVEC {{value}}",
+    "player": "Joeg",
+    "manager": "Director",
+    "user": "Utili"
+  }
+}
