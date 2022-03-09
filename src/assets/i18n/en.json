@@ -2,10 +2,8 @@
   "HOME": {
     "TITLE": "Hello Angular with ngx-translate!",
     "SELECT": "Change language",
-    "HELLO": "FUCK {{value}}",
     "player": "Player",
     "manager": "Manager",
     "user": "User"
-
   }
 }
